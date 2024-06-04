@@ -11,8 +11,8 @@ A detailed description of the dataset generation process is available in the pap
 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Generating data](#Generating_data)
-- [Using the dataset](#Using_the_dataset)
+- [Generating data](#generating-data)
+- [Using the dataset](#using-the-dataset)
 
 
 
