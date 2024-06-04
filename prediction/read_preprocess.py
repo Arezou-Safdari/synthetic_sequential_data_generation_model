@@ -82,4 +82,3 @@ def get_data(all_data, feature_names=[], snapshot_time=20000,  remove_failures=F
     else:
         data = data.rename(columns={'failure_age': 'time'})
     return data
-

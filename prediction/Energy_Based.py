@@ -10,6 +10,7 @@ from hist_add_noise_merge import add_noise
 from seaborn import despine
 # %%===========================================================================
 
+
 # read data
 ONE_HOUR = 3600
 all_data = pd.read_feather("datapath.feather")
