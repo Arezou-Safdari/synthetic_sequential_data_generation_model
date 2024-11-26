@@ -34,11 +34,11 @@ Each row in the dataset is a snapshot from lifetime of the vehicle and includes 
 - **TypeChangeTimes**: The number of times the vehicle changed type.
 - **snapshot_age**: The age of the individual when the snapshot was taken.
 - **maximum_capacity**: The maximum capacity of the battery when the snapshot was taken.
-- **ambient_temperature_x**: The histogtogram of the ambient temperature.
-- **cell_temperature_x**: The histogtogram of the cell temperature.
-- **SOC_x**: The histogtogram of the SOC.
-- **current_x**:The histogtogram of the current.
-- **voltage_x**:The histogtogram of the voltage.
+- **ambient_temperature_x**: The histogram of the ambient temperature.
+- **cell_temperature_x**: The histogram of the cell temperature.
+- **SOC_x**: The histogram of the SOC.
+- **current_x**:The histogram of the current.
+- **voltage_x**:The histogram of the voltage.
 
 ## Generating data
 
